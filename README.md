@@ -18,16 +18,16 @@ and after that? You're done!
 
 # All commands:
 ```sh
-./BSDfetch
-./BSDfetch --help (or ./BSDfetch -h)
-./BSDfetch --freebsd
-./BSDfetch --openbsd
-./BSDfetch --netbsd
-./BSDfetch --dragonflybsd
-./BSDfetch --ghostbsd
-./BSDfetch --hardenedbsd
-./BSDfetch --nomadbsd
-./BSDfetch --midnightbsd
-./BSDfetch --bsd/os
-./BSDfetch --4.4bsd
+./BSDfetch-v1.1
+./BSDfetch-v1.1 --help (or ./BSDfetch -h)
+./BSDfetch-v1.1 --freebsd
+./BSDfetch-v1.1 --openbsd
+./BSDfetch-v1.1 --netbsd
+./BSDfetch-v1.1 --dragonflybsd
+./BSDfetch-v1.1 --ghostbsd
+./BSDfetch-v1.1 --hardenedbsd
+./BSDfetch-v1.1 --nomadbsd
+./BSDfetch-v1.1 --midnightbsd
+./BSDfetch-v1.1 --bsd/os
+./BSDfetch-v1.1 --4.4bsd
 ```
