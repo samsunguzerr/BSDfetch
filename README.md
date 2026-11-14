@@ -12,17 +12,22 @@ cd ~
 ```
 After that, we need to convert that script into a command, run:
 ```sh
-chmod +x bsdfetch
+chmod +x BSDfetch-v1.1
 ```
 and after that? You're done!
 
 # All commands:
 ```sh
-./bsdfetch
-./bsdfetch --freebsd
-./bsdfetch --openbsd
-./bsdfetch --netbsd
-./bsdfetch --dragonflybsd
-./bsdfetch --ghostbsd
-./bsdfetch --hardenedbsd
+./BSDfetch
+./BSDfetch --help (or ./BSDfetch -h)
+./BSDfetch --freebsd
+./BSDfetch --openbsd
+./BSDfetch --netbsd
+./BSDfetch --dragonflybsd
+./BSDfetch --ghostbsd
+./BSDfetch --hardenedbsd
+./BSDfetch --nomadbsd
+./BSDfetch --midnightbsd
+./BSDfetch --bsd/os
+./BSDfetch --4.4bsd
 ```
